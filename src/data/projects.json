@@ -1,26 +1,24 @@
 [
   {
-    "title": "Project A",
+    "title": "Car Price Prediction",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to build a Linear Regression model to predict car price",
+    "skills": ["python", "matplotlib", "numpy", "pandas", "seaborn"],
+    "source": "https://github.com/Hajer45/Car-Price-Prediction/tree/main"
   },
   {
-    "title": "Project B",
+    "title": "Image Classifier",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to  build a Python application that can train an image classifier on a flowers dataset, then predict new images using the trained model.",
+    "skills": ["Python", "pytorch", "numpy","Matplotlib"],
+    "source": "https://github.com/Hajer45/image_classifier"
   },
   {
-    "title": "Project C",
+    "title": "AI-summarizer",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is an AI-powered summarizer application built using React, Vite, Tailwind CSS, and RapidAPI. The app takes long articles and generates clear, concise summaries, making reading more efficient.",
+    "skills": ["React", "Tailwind CSS", "RapidAPI"],
+    "demo": "https://aisummarizerhajertalbi.netlify.app/",
+    "source": "https://github.com/Hajer45/AI-Summarizer"
   }
 ]

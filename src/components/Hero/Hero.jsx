@@ -1,23 +1,22 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
+import getImageUrl from "../../data/hajer.jpg";
 
 export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h2 className={styles.title}>Hi, I'm Hajer</h2>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I am a freelancer with a passion for competitive programming, web development, and data science.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="#contact" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl}
         alt="Hero image of me"
         className={styles.heroImg}
       />

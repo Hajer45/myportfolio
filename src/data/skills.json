@@ -15,16 +15,54 @@
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
+ 
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "pytorch",
+    "imageSrc": "skills/pytorch.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy.png"
   }
 ]
